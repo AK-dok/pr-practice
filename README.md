@@ -1,6 +1,6 @@
 # pr-practice
 
-A tiny practice project for learnign the pull request workflow.
+A tiny practice project for learning the pull request workflow.
 
 ## Usage
 
